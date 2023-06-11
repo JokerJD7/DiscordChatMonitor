@@ -8,11 +8,11 @@
 debug: false
 
 # Webhook URL from your Discord server.
-webhook-url: ''
+webhook-url: 'https://discordapp.com/api/webhooks/1117478230388117547/cois-2PrFOD22S3zT7xmEAQ0JkeE7u2u-KyE-COSWpx_g4BK3a9ldHmS8lJ0Tcg7MuMN'
 
 # Bot picture for events.
-server-icon-url: '' # You must provide one for yourself.
-server-username: 'Server'
+server-icon-url: 'https://pbs.twimg.com/media/FeP52UrVQAI3RCh.png' # You must provide one for yourself.
+server-username: 'Joker_JD's Minecraft Server'
 
 # Replacement for the /say command. /server
 console-icon-url: 'https://haven.netherrain.net/media/images/console-icon.png'
